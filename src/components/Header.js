@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './Navbar';
 
-function Header() {
+const Header = () => {
     return (
         <header id="header" className="header">
             <div className="center-logo">
